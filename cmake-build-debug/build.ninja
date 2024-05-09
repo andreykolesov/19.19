@@ -91,17 +91,17 @@ build CMakeFiles/untitled9.dir/libs/data_structures/bitset/bitset.c.obj: C_COMPI
   OBJECT_DIR = CMakeFiles\untitled9.dir
   OBJECT_FILE_DIR = CMakeFiles\untitled9.dir\libs\data_structures\bitset
 
-build CMakeFiles/untitled9.dir/libs/algorithms/algorithm.c.obj: C_COMPILER__untitled9_unscanned_Debug E$:/untitled9/libs/algorithms/algorithm.c || cmake_object_order_depends_target_untitled9
-  DEP_FILE = CMakeFiles\untitled9.dir\libs\algorithms\algorithm.c.obj.d
-  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\untitled9.dir
-  OBJECT_FILE_DIR = CMakeFiles\untitled9.dir\libs\algorithms
-
 build CMakeFiles/untitled9.dir/libs/data_structures/string/string_.c.obj: C_COMPILER__untitled9_unscanned_Debug E$:/untitled9/libs/data_structures/string/string_.c || cmake_object_order_depends_target_untitled9
   DEP_FILE = CMakeFiles\untitled9.dir\libs\data_structures\string\string_.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\untitled9.dir
   OBJECT_FILE_DIR = CMakeFiles\untitled9.dir\libs\data_structures\string
+
+build CMakeFiles/untitled9.dir/libs/algorithms/algorithm.c.obj: C_COMPILER__untitled9_unscanned_Debug E$:/untitled9/libs/algorithms/algorithm.c || cmake_object_order_depends_target_untitled9
+  DEP_FILE = CMakeFiles\untitled9.dir\libs\algorithms\algorithm.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\untitled9.dir
+  OBJECT_FILE_DIR = CMakeFiles\untitled9.dir\libs\algorithms
 
 build CMakeFiles/untitled9.dir/libs/algorithms/array/array.c.obj: C_COMPILER__untitled9_unscanned_Debug E$:/untitled9/libs/algorithms/array/array.c || cmake_object_order_depends_target_untitled9
   DEP_FILE = CMakeFiles\untitled9.dir\libs\algorithms\array\array.c.obj.d
@@ -117,7 +117,7 @@ build CMakeFiles/untitled9.dir/libs/algorithms/array/array.c.obj: C_COMPILER__un
 #############################################
 # Link the executable untitled9.exe
 
-build untitled9.exe: C_EXECUTABLE_LINKER__untitled9_Debug CMakeFiles/untitled9.dir/main.c.obj CMakeFiles/untitled9.dir/libs/data_structures/matrix/matrix.c.obj CMakeFiles/untitled9.dir/libs/data_structures/ordered_array_set/ordered_array_set.c.obj CMakeFiles/untitled9.dir/libs/data_structures/unordered_array_set/unordered_array_set.c.obj CMakeFiles/untitled9.dir/libs/data_structures/vector/vector.c.obj CMakeFiles/untitled9.dir/libs/data_structures/vectorVoid/vectorVoid.c.obj CMakeFiles/untitled9.dir/libs/data_structures/bitset/bitset.c.obj CMakeFiles/untitled9.dir/libs/algorithms/algorithm.c.obj CMakeFiles/untitled9.dir/libs/data_structures/string/string_.c.obj CMakeFiles/untitled9.dir/libs/algorithms/array/array.c.obj
+build untitled9.exe: C_EXECUTABLE_LINKER__untitled9_Debug CMakeFiles/untitled9.dir/main.c.obj CMakeFiles/untitled9.dir/libs/data_structures/matrix/matrix.c.obj CMakeFiles/untitled9.dir/libs/data_structures/ordered_array_set/ordered_array_set.c.obj CMakeFiles/untitled9.dir/libs/data_structures/unordered_array_set/unordered_array_set.c.obj CMakeFiles/untitled9.dir/libs/data_structures/vector/vector.c.obj CMakeFiles/untitled9.dir/libs/data_structures/vectorVoid/vectorVoid.c.obj CMakeFiles/untitled9.dir/libs/data_structures/bitset/bitset.c.obj CMakeFiles/untitled9.dir/libs/data_structures/string/string_.c.obj CMakeFiles/untitled9.dir/libs/algorithms/algorithm.c.obj CMakeFiles/untitled9.dir/libs/algorithms/array/array.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\untitled9.dir

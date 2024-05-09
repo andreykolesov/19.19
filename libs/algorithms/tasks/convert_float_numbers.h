@@ -113,7 +113,7 @@ void test_convertFloatNumbers_3_one_element() {
 
     char check[10] = "10.12";
 
-    assert(strcmp(data, check) == 0);
+    assert(strcmp_(data, check) == 0);
 }
 
 
@@ -142,7 +142,7 @@ void test_convertFloatNumbers_4_more_element() {
 
     char check[100] = "1.12 2.23 3.34 ";
 
-    assert(strcmp(data, check) == 0);
+    assert(strcmp_(data, check) == 0);
 }
 
 

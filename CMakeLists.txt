@@ -11,10 +11,12 @@ add_executable(untitled9 main.c
         libs/data_structures/vector/vector.c
         libs/data_structures/vectorVoid/vectorVoid.c
         libs/data_structures/bitset/bitset.c
+        libs/data_structures/string/string_.h
+        libs/data_structures/string/string_.c
         libs/algorithms/algorithm.c
         libs/algorithms/algorithm.h
-        libs/data_structures/string/string_.c
         libs/algorithms/tasks/transpose_matrix.h
         libs/algorithms/array/array.c
         libs/algorithms/tasks/convert_float_numbers.h
-        libs/algorithms/tasks/values_of_expressions.h)
+        libs/algorithms/tasks/values_of_expressions.h
+        libs/algorithms/tasks/filter_words.h)

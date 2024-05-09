@@ -70,7 +70,7 @@ void test_valuesOfExpressions_1_addition() {
 
     fclose(file);
 
-    assert(strcmp(actual, expected) == 0);
+    assert(strcmp_(actual, expected) == 0);
 }
 
 void test_valuesOfExpressions_2_division() {
@@ -93,7 +93,7 @@ void test_valuesOfExpressions_2_division() {
 
     fclose(file);
 
-    assert(strcmp(actual, expected) == 0);
+    assert(strcmp_(actual, expected) == 0);
 }
 
 void test_valuesOfExpressions_3_unknown_operator() {
@@ -116,7 +116,7 @@ void test_valuesOfExpressions_3_unknown_operator() {
 
     fclose(file);
 
-    assert(strcmp(actual, expected) == 0);
+    assert(strcmp_(actual, expected) == 0);
 }
 
 void test_valuesOfExpressions() {
