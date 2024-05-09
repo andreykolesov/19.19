@@ -16,4 +16,5 @@ add_executable(untitled9 main.c
         libs/data_structures/string/string_.c
         libs/algorithms/tasks/transpose_matrix.h
         libs/algorithms/array/array.c
-        libs/algorithms/tasks/convert_float_numbers.h)
+        libs/algorithms/tasks/convert_float_numbers.h
+        libs/algorithms/tasks/values_of_expressions.h)
