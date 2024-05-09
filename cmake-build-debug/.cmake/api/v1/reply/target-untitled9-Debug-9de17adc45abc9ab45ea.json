@@ -116,7 +116,8 @@
 			[
 				1,
 				9,
-				11
+				11,
+				13
 			]
 		}
 	],
@@ -196,6 +197,11 @@
 			"compileGroupIndex" : 0,
 			"path" : "libs/algorithms/array/array.c",
 			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "libs/algorithms/tasks/convert_float_numbers.h",
+			"sourceGroupIndex" : 1
 		}
 	],
 	"type" : "EXECUTABLE"

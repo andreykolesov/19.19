@@ -10,3 +10,7 @@
 511	653	7369702779973176	CMakeFiles/untitled9.dir/libs/data_structures/bitset/bitset.c.obj	83b09c44ea29ddee
 3	99	7369703775361426	CMakeFiles/untitled9.dir/libs/algorithms/array/array.c.obj	ade5f7a1b4fcb21b
 99	174	7369703776080987	untitled9.exe	1ec42285a2c34cbf
+4	214	7369777453362405	CMakeFiles/untitled9.dir/main.c.obj	fddba810c754d32f
+214	294	7369777454131937	untitled9.exe	1ec42285a2c34cbf
+3	116	7369779421023995	CMakeFiles/untitled9.dir/main.c.obj	fddba810c754d32f
+116	195	7369779421783522	untitled9.exe	1ec42285a2c34cbf

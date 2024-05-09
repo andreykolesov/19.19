@@ -90,7 +90,7 @@ void test_transposeMatrixInFile_1_one_element_matrix() {
 }
 
 void test_transposeMatrixInFile_2_unit_symmetric_matrix() {
-    const char *filename = "C:\\Users\\Andrey\\Desktop\\19.19\\task_1_test_1.txt";
+    const char *filename = "C:\\Users\\Andrey\\Desktop\\19.19\\task_1_test_2.txt";
     int n = 3;
     matrix m = createMatrixFromArray((int[]) {1, 0, 0,
                                                  0, 1, 0,
@@ -134,7 +134,7 @@ void test_transposeMatrixInFile_2_unit_symmetric_matrix() {
 }
 
 void test_transposeMatrixInFile_3_matrix() {
-    const char filename[] = "C:\\Users\\Andrey\\Desktop\\19.19\\task_1_test_1.txt";
+    const char filename[] = "C:\\Users\\Andrey\\Desktop\\19.19\\task_1_test_3.txt";
     int n = 3;
     matrix m = createMatrixFromArray((int[]) {1, 2, 3,
                                                  4, 5, 6,
