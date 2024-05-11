@@ -9,6 +9,7 @@
 
 void longestWordInString(const char* filename) {
     FILE* file = fopen(filename, "r");
+
     if (file == NULL) {
         printf("file reading error\n");
         exit(1);
@@ -47,6 +48,7 @@ void longestWordInString(const char* filename) {
     fclose(file);
 
     file = fopen(filename, "w");
+
     if (file == NULL) {
         printf("file reading error\n");
         exit(1);

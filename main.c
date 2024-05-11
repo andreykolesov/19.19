@@ -3,6 +3,7 @@
 #include "libs/algorithms/tasks/values_of_expressions.h"
 #include "libs/algorithms/tasks/filter_words.h"
 #include "libs/algorithms/tasks/longest_word_in_string.h"
+#include "libs/algorithms/tasks/remove_true_polynomial.h"
 
 void test() {
     test_matrix_transpose();
@@ -10,6 +11,7 @@ void test() {
     test_valuesOfExpressions(); // выводит "unlnown operator" (3 тест)
     test_filterWords();
     test_longestWordInString();
+    test_removeTruePolynomial();
 }
 
 int main() {

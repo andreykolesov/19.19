@@ -20,4 +20,6 @@ add_executable(untitled9 main.c
         libs/algorithms/tasks/convert_float_numbers.h
         libs/algorithms/tasks/values_of_expressions.h
         libs/algorithms/tasks/filter_words.h
-        libs/algorithms/tasks/longest_word_in_string.h)
+        libs/algorithms/tasks/longest_word_in_string.h
+        libs/algorithms/tasks/remove_true_polynomial.h
+)
