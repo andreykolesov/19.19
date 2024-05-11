@@ -24,4 +24,5 @@ add_executable(untitled9 main.c
         libs/algorithms/tasks/remove_true_polynomial.h
         libs/algorithms/tasks/rearrange_numbers.h
         libs/algorithms/tasks/transpose_non_symmetric_matrix.h
+        libs/algorithms/tasks/get_best_team.h
 )

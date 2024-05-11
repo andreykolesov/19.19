@@ -6,6 +6,7 @@
 #include "libs/algorithms/tasks/remove_true_polynomial.h"
 #include "libs/algorithms/tasks/rearrange_numbers.h"
 #include "libs/algorithms/tasks/transpose_non_symmetric_matrix.h"
+#include "libs/algorithms/tasks/get_best_team.h"
 
 void test() {
     test_matrix_transpose();
@@ -16,6 +17,7 @@ void test() {
     test_removeTruePolynomial();
     test_rearrangeNumbers();
     test_transposeNonSymmetricMatrix();
+    test_getBestTeam();
 }
 
 int main() {
