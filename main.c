@@ -5,6 +5,7 @@
 #include "libs/algorithms/tasks/longest_word_in_string.h"
 #include "libs/algorithms/tasks/remove_true_polynomial.h"
 #include "libs/algorithms/tasks/rearrange_numbers.h"
+#include "libs/algorithms/tasks/transpose_non_symmetric_matrix.h"
 
 void test() {
     test_matrix_transpose();
@@ -14,6 +15,7 @@ void test() {
     test_longestWordInString();
     test_removeTruePolynomial();
     test_rearrangeNumbers();
+    test_transposeNonSymmetricMatrix();
 }
 
 int main() {
