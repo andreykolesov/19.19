@@ -22,4 +22,5 @@ add_executable(untitled9 main.c
         libs/algorithms/tasks/filter_words.h
         libs/algorithms/tasks/longest_word_in_string.h
         libs/algorithms/tasks/remove_true_polynomial.h
+        libs/algorithms/tasks/rearrange_numbers.h
 )
