@@ -120,7 +120,8 @@
 				12,
 				14,
 				15,
-				16
+				16,
+				17
 			]
 		}
 	],
@@ -219,6 +220,11 @@
 		{
 			"backtrace" : 1,
 			"path" : "libs/algorithms/tasks/filter_words.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "libs/algorithms/tasks/longest_word_in_string.h",
 			"sourceGroupIndex" : 1
 		}
 	],
