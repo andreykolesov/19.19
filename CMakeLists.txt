@@ -25,4 +25,5 @@ add_executable(untitled9 main.c
         libs/algorithms/tasks/rearrange_numbers.h
         libs/algorithms/tasks/transpose_non_symmetric_matrix.h
         libs/algorithms/tasks/get_best_team.h
+        libs/algorithms/tasks/update_product.h
 )
